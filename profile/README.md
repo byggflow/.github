@@ -1,4 +1,4 @@
-# <img width="256" alt="Byggflow logo" src="https://raw.githubusercontent.com/byggflow/.github/main/logotype/colored/type-colored.png">
+# <img width="256" alt="Byggflow logo" src="https://raw.githubusercontent.com/byggflow/.github/main/logotype/colored/type-colored.gif" loop=infinite>
 
 Byggflow is streamlining construction projects through data-driven insights and efficiency. Our mission is to transform the construction industry, making it smarter, more efficient, and more sustainable.
 
